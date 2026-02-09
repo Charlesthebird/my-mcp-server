@@ -3,7 +3,7 @@ name = "my-mcp-server"
 version = "0.1.0"
 description = "my-mcp-server MCP server built with FastMCP"
 authors = [
-    {name = "Nicholas Bucher"}
+    {name = "nicholasbucher"}
 ]
 readme = "README.md"
 requires-python = ">=3.10"
