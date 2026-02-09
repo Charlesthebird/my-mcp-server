@@ -1,0 +1,15 @@
+name: my-mcp-server
+framework: fastmcp-python
+version: 0.1.0
+description: Test MCP server from the CLI
+author: Nicholas Bucher
+secrets:
+    local:
+        enabled: false
+        provider: env
+        file: .env.local
+runtimeHint: python
+runtimeArgs:
+    - src/main.py
+created_at: 2026-02-09T17:00:50.463562-05:00
+updated_at: 2026-02-09T17:00:50.540232-05:00
